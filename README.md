@@ -8,6 +8,7 @@ This repository includes scripts to set up a Metal³ development environment.
 [![CentOS V1alpha5 build status](https://jenkins.nordix.org/view/Metal3/job/metal3_main_v1a5_integration_test_centos/badge/icon?subject=CentOS%20E2E%20V1alpha5)](https://jenkins.nordix.org/view/Metal3/job/metal3_main_v1a5_integration_test_centos)
 [![Ubuntu V1beta1 build status](https://jenkins.nordix.org/view/Metal3/job/metal3_main_v1b1_integration_test_ubuntu/badge/icon?subject=Ubuntu%20E2E%20V1beta1)](https://jenkins.nordix.org/view/Metal3/job/metal3_main_v1b1_integration_test_ubuntu)
 [![CentOS V1beta1 build status](https://jenkins.nordix.org/view/Metal3/job/metal3_main_v1b1_integration_test_centos/badge/icon?subject=CentOS%20E2E%20V1beta1)](https://jenkins.nordix.org/view/Metal3/job/metal3_main_v1b1_integration_test_centos)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkashifest%2Fmetal3-dev-env.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkashifest%2Fmetal3-dev-env?ref=badge_shield)
 
 ## Instructions
 
@@ -186,3 +187,7 @@ information, regarding the TLS setup and running ironic locally please refer to
 these documents:
 [TLS](https://github.com/metal3-io/cluster-api-provider-metal3/blob/main/docs/getting-started.md)
 , [Run local ironic](https://github.com/metal3-io/baremetal-operator/blob/main/docs/dev-setup.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkashifest%2Fmetal3-dev-env.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkashifest%2Fmetal3-dev-env?ref=badge_large)
